@@ -1,7 +1,3 @@
-# vscode
+# VsCode Settings
 
-
-
-
-mklink /H (Join-Path $env:APPDATA 'Code\User\settings.json') .
-fsutil hardlink create ((pwd).Path) (Join-Path $env:APPDATA 'Code\User\settings.json')
+This repository contains my Visual Studio Code settings and scripts to backup them.
