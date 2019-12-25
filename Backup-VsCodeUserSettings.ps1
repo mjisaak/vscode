@@ -1,4 +1,3 @@
-$PSScriptRoot
 $destination = (Join-Path $PSScriptRoot "settings\$($env:COMPUTERNAME)").ToLower()
 New-Item $destination -ItemType Directory -Force | Out-Null
 

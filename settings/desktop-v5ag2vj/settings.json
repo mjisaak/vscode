@@ -18,5 +18,7 @@
         "low",
         "today",
         "issue"
-    ]
+    ],
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
 }
