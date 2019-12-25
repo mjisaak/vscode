@@ -1,8 +1,9 @@
 {
     "git.confirmSync": false,
     "git.autofetch": true,
-    "window.zoomLevel": 0,
     "git.enableSmartCommit": true,
+    
+    "window.zoomLevel": 0,
     "editor.minimap.enabled": false,
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.activityBar.visible": true,
