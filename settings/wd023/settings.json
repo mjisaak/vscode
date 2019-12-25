@@ -8,7 +8,6 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
     "terminal.integrated.fontFamily": "Cascadia Code PL",
     "terminal.integrated.fontSize": 12,
-    "git.confirmSync": false,
     "explorer.confirmDelete": false,
     "azure.resourceFilter": [
         "f1847c27-90be-4b38-a1b7-bd3a2029122f/a3d8a5c7-b250-4471-828e-5c5bd3d9ff7b",
@@ -17,7 +16,6 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "azureFunctions.showProjectWarning": false,
     "azureFunctions.showCoreToolsWarning": false,
-    "git.enableSmartCommit": true,
     "workbench.iconTheme": "vscode-icons",
     "vsicons.dontShowNewVersionMessage": true,
     "[html]": {
