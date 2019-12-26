@@ -4,6 +4,8 @@
     "git.enableSmartCommit": true,
     "window.zoomLevel": 0,
     "editor.minimap.enabled": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
     "zenMode.centerLayout": false,
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
     "terminal.integrated.fontFamily": "Cascadia Code PL",
