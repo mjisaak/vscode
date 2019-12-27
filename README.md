@@ -8,4 +8,8 @@ Read tipps on Welcome Page -> Interactive Playground
 
 ## Shortcuts
 
-*Ctrl + Shift + L* to create a cursor on all occurrences of a string.
+**Ctrl + Shift + L** to create a cursor on all occurrences of a string.
+
+**Ctrl + K + Z** Zen mode.
+
+** Ctrl + Shift + m* Problems
