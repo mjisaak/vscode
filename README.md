@@ -13,3 +13,5 @@ Read tipps on Welcome Page -> Interactive Playground
 **Ctrl + K + Z** Zen mode.
 
 ** Ctrl + Shift + m* Problems
+
+**Ctrl + ^** Split Editors
