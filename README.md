@@ -1,8 +1,8 @@
 # Visual Studio Code Customization
 
-This repository contains my Visual Studio Code settings and scripts to backup them.
+This repository contains my Visual Studio Code settings and scripts to backup them. Feel free to **fork** this repository and use it to backup your own settings.
 
-## Shortcuts I can't remember
+## Shortcuts (that I can't remember)
 
 |Key   |Shortcut   |
 |---|---|

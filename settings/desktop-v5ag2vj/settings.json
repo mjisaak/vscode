@@ -1,26 +1,23 @@
 {
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "window.zoomLevel": 0,
-    "git.enableSmartCommit": true,
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.activityBar.visible": true,
-    "workbench.iconTheme": "vscode-icons",
-    "gitlens.hovers.currentLine.over": "line",
-    "gitlens.currentLine.enabled": false,
-    "gitlens.codeLens.enabled": false,
-    "vsicons.dontShowNewVersionMessage": true,
-    "explorer.confirmDragAndDrop": false,
-    "todo.tags.names": [
-        "critical",
-        "high",
-        "low",
-        "today",
-        "issue"
-    ],
-    "telemetry.enableCrashReporter": false,
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
     "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    //"terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
     "terminal.integrated.fontFamily": "Cascadia Code PL",
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "zenMode.centerLayout": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
