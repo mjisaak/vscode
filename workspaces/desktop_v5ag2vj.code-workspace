@@ -1,13 +1,13 @@
 {
-	"folders": [
-		{
-			"path": "D:\\sources\\github\\powershell"
-		},
-		{
-			"path": "D:\\sources\\github\\todo"
-		},
-		{
-			"path": "./../"
-		}
-	]
+  "folders": [
+    {
+      "path": "D:\\sources\\github\\powershell"
+    },
+    {
+      "path": "D:\\sources\\github\\todo"
+    },
+    {
+      "path": "./../"
+    }
+  ]
 }
