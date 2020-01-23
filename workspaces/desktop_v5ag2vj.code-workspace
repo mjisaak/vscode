@@ -12,5 +12,11 @@
     {
       "path": "./../"
     }
-  ]
+  ],
+  "settings": {
+    "pasteImage.path": "${currentFileDir}/img",
+    "pasteImage.basePath": "${currentFileDir}/img",
+    "pasteImage.forceUnixStyleSeparator": true,
+    "pasteImage.prefix": "/"
+  }
 }
