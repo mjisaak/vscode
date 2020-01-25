@@ -1,4 +1,5 @@
 {
+    "clipboard-manager.onlyWindowFocused": false,
     "editor.minimap.enabled": false,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
