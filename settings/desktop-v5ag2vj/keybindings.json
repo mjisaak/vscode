@@ -3,15 +3,5 @@
     {
         "key": "ctrl+shift+s",
         "command": "saveAll"
-    },
-    {
-        "key": "ctrl+shift+v",
-        "command": "-markdown.showPreview",
-        "when": "editorLangId == 'markdown'"
-    },
-    {
-        "key": "ctrl+shift+v",
-        "command": "-markdown.extension.togglePreview",
-        "when": "!terminalFocus"
     }
 ]
