@@ -11,6 +11,9 @@
     },
     {
       "path": "./../"
+    },
+    {
+      "path": "D:/sources/github/go-playground"
     }
   ],
   "settings": {
