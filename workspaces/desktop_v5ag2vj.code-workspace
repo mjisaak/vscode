@@ -20,6 +20,12 @@
     },
     {
       "path": "../../projects"
+    },
+    {
+      "path": "../../../git/HilfeAPIM"
+    },
+    {
+      "path": "../../../git/HubBLe"
     }
   ],
   "settings": {
