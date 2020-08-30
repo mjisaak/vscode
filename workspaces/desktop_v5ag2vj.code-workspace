@@ -26,6 +26,9 @@
     },
     {
       "path": "../../../git/HubBLe"
+    },
+    {
+      "path": "../../reverse-clock"
     }
   ],
   "settings": {
