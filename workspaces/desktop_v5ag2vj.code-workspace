@@ -22,13 +22,10 @@
       "path": "../../projects"
     },
     {
-      "path": "../../../git/HilfeAPIM"
-    },
-    {
       "path": "../../../git/HubBLe"
     },
     {
-      "path": "../../reverse-clock"
+      "path": "../../mvp-docs-learn-champion-extension"
     }
   ],
   "settings": {
